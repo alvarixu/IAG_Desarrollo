@@ -1,0 +1,8 @@
+# Requisitos para la práctica de CNN
+numpy
+matplotlib
+seaborn
+scikit-learn
+# Nota: TensorFlow no está disponible actualmente para Python 3.14
+# Se recomienda usar Python 3.9 - 3.12 para compatibilidad completa.
+# tensorflow
